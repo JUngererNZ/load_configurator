@@ -1,69 +1,130 @@
-# load_configurator
-load configurator for loading cargo onto trailer
+# 🚛 Load Configurator
 
-This **User Guide** serves as the standard operating procedure (SOP) for your transport team. It explains not just how to run the code, but how to interpret the technical physics data to ensure every load is road-legal.
+A comprehensive Python-based load configurator for optimizing cargo placement on trailers, specifically designed for heavy equipment like gensets.
 
----
+## 📋 Table of Contents
 
-# 🚛 Genset Load Configurator: User Guide
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technical Concepts](#technical-concepts)
+- [File Structure](#file-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-This toolset automates the transformation of a client bulk order into a physically balanced, 3D-mapped loading plan for three trailers.
+## 🎯 Overview
 
-## 1. Technical Concepts: Understanding the Physics
+This toolset automates the transformation of client bulk orders into physically balanced, 3D-mapped loading plans for multiple trailers. It ensures road-legal configurations by optimizing weight distribution and center of gravity calculations.
 
-When heavy gensets are loaded, the weight is distributed between two points: the **Kingpin** (front) and the **Rear Axle Group**.
+## ✨ Features
 
-* **Front (Kingpin) Load:** The weight pressing down on the truck's drive axles. If this is too high, it can damage the truck's fifth wheel. If it's too low, the truck loses steering traction.
-* **Rear Axle Load:** The weight pressing down on the trailer's wheels. Exceeding this limit is the most common cause of DOT/Roadside fines.
-* **Center of Gravity (CoG):** The point where the total weight of all items is balanced. The **Auto-Optimizer** shuffles items to move this CoG to the ideal "sweet spot" (usually slightly forward of the trailer center).
+- **3D Load Visualization**: Interactive 3D representations of cargo placement
+- **Weight Distribution Analysis**: Calculates front/rear axle loads and center of gravity
+- **Auto-Optimization**: Iterative algorithm to find optimal load configurations
+- **Multi-Trailer Support**: Handles loading plans for multiple trailers
+- **CSV Export**: Generates final loading manifests for operational use
+- **Safety Validation**: Ensures configurations meet legal weight limits
 
----
+## 🚀 Installation
 
-## 2. Sequence of Operations (Manual vs. One-Click)
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/load_configurator.git
+   cd load_configurator
+   ```
 
-### Option A: The "One-Click" Workflow (Recommended)
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Use this for daily operations to get an optimized result immediately.
+3. Ensure you have Python 3.8+ installed
 
-1. Place the client spreadsheet (e.g., `19_GENSETS.csv`) in the folder.
-2. Run the **`master_configurator.py`**.
-3. **The script will:**
-* Iterate 50+ times to find the best balance.
-* Pop up 3D windows showing the layout for Trailer A, B, and C.
-* Generate the `FINAL_LOADING_MANIFESTO.csv`.
+## 💻 Usage
 
+### Quick Start (Recommended)
 
+1. Place your client spreadsheet (e.g., `19_GENSETS.csv`) in the project folder
+2. Run the master configurator:
+   ```bash
+   python master_configurator.py
+   ```
+3. The script will:
+   - Iterate 50+ times to find the best balance
+   - Display 3D layouts for all trailers
+   - Generate `FINAL_LOADING_MANIFESTO.csv`
 
-### Option B: The Modular Workflow (Development/Debugging)
+### Modular Workflow (Development/Debugging)
 
-If you need to change specific parts of the logic, run the scripts in this order:
+For detailed control over the process:
 
-1. **`load_configurator.py`**: Test the 3D packing fit only.
-2. **`Axle_Load_Calculation.py`**: Verify the weight math.
-3. **`Integrated_Load_Configurator_Visualizer.py`**: View the combined 3D result.
-4. **`CSV_Export_Loading_Manifesto.py`**: Save the final data.
+1. **Test 3D packing**: `python load_configurator.py`
+2. **Verify weight calculations**: `python Axle_Load_Calculation.py`
+3. **View combined results**: `python Integrated_Load_Configurator_Visualizer.py`
+4. **Export final data**: `python CSV_Export_Loading_Manifesto.py`
 
----
+## 🔬 Technical Concepts
 
-## 3. Interpreting the Final Report
+### Understanding the Physics
 
-Open the `FINAL_LOADING_MANIFESTO.csv`. Pay close attention to these columns:
+When heavy equipment is loaded, weight distribution is critical:
+
+- **Front (Kingpin) Load**: Weight on truck's drive axles
+  - Too high: Can damage fifth wheel
+  - Too low: Reduces steering traction
+
+- **Rear Axle Load**: Weight on trailer wheels
+  - Most common cause of DOT/Roadside fines when exceeded
+
+- **Center of Gravity (CoG)**: Balance point of total weight
+  - Auto-Optimizer moves CoG to ideal "sweet spot"
+  - Usually slightly forward of trailer center
+
+### Key Metrics in Final Report
 
 | Column | Meaning | Action if High/Red |
-| --- | --- | --- |
-| **X_Pos_Meters** | Where the front of the genset should sit. | Measure from the front trailer bulkhead. |
-| **Front_Axle_Load** | Weight on the truck. | If >12,000kg, move a unit further back. |
-| **Rear_Axle_Load** | Weight on trailer wheels. | If >18,000kg, move a unit further forward. |
-| **Safety_Status** | Overall legal check. | **PASS** = Good to go. **FAIL** = Do not load. |
+|--------|---------|-------------------|
+| **X_Pos_Meters** | Front position of genset | Measure from front trailer bulkhead |
+| **Front_Axle_Load** | Weight on truck | If >12,000kg, move unit further back |
+| **Rear_Axle_Load** | Weight on trailer wheels | If >18,000kg, move unit further forward |
+| **Safety_Status** | Overall legal check | **PASS** = Good to go, **FAIL** = Do not load |
 
----
+## 📁 File Structure
 
-## 4. Troubleshooting
+```
+load_configurator/
+├── README.md                    # This file
+├── master_configurator.py       # Main orchestrator script
+├── load_configurator.py         # 3D packing logic
+├── Axle_Load_Calculation.py     # Weight distribution math
+├── Integrated_Load_Configurator_Visualizer.py  # 3D visualization
+├── CSV_Export_Loading_Manifesto.py  # Data export
+├── Auto-Optimizer.py            # Optimization algorithms
+├── three_d_visualizer.py        # 3D plotting utilities
+├── run_all.py                   # Batch processing script
+├── user_guide.md                # Detailed user documentation
+├── requirements.txt             # Python dependencies
+├── LICENSE                      # License file
+├── *.csv                        # Client data files (excluded from git)
+├── *.xlsx                       # Configuration files (excluded from git)
+└── images/                      # Documentation images
+```
 
-* **"Fail - Overloaded" appears:** This means the 19 items are too heavy for 3 trailers, or the specific mix of items is too dense. Consider using a 4th trailer or higher-capacity axles.
-* **Units overlapping in 3D:** Ensure the `LENGTH` and `WIDTH` values in your CSV are accurate (including any protruding exhaust pipes or control panels).
-* **Red Colors in Plot:** This is a visual warning that the optimizer could not find a safe configuration. **Do not give these instructions to the driver.**
+## 🛠️ Troubleshooting
 
----
+- **"Fail - Overloaded"**: Items too heavy for 3 trailers or specific mix too dense
+  - Consider using 4th trailer or higher-capacity axles
+  
+- **Units overlapping in 3D**: Inaccurate dimensions in CSV
+  - Verify `LENGTH` and `WIDTH` values include protrusions (exhaust pipes, control panels)
+  
+- **Red colors in plot**: Optimizer couldn't find safe configuration
+  - **Do not load** - configuration is unsafe
 
-**This completes the setup for your load configurator.**
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing

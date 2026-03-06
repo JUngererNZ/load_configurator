@@ -1,0 +1,2701 @@
+{
+    ".git": {
+        "hooks": {
+            "file_list": [
+                {
+                    "name": "applypatch-msg.sample",
+                    "creation_date": "2026-01-25T09:01:03.208039"
+                },
+                {
+                    "name": "commit-msg.sample",
+                    "creation_date": "2026-01-25T09:01:03.193000"
+                },
+                {
+                    "name": "fsmonitor-watchman.sample",
+                    "creation_date": "2026-01-25T09:01:03.177036"
+                },
+                {
+                    "name": "post-update.sample",
+                    "creation_date": "2026-01-25T09:01:03.161039"
+                },
+                {
+                    "name": "pre-applypatch.sample",
+                    "creation_date": "2026-01-25T09:01:03.144867"
+                },
+                {
+                    "name": "pre-commit.sample",
+                    "creation_date": "2026-01-25T09:01:03.103621"
+                },
+                {
+                    "name": "pre-merge-commit.sample",
+                    "creation_date": "2026-01-25T09:01:03.086626"
+                },
+                {
+                    "name": "pre-push.sample",
+                    "creation_date": "2026-01-25T09:01:03.070621"
+                },
+                {
+                    "name": "pre-rebase.sample",
+                    "creation_date": "2026-01-25T09:01:03.053631"
+                },
+                {
+                    "name": "pre-receive.sample",
+                    "creation_date": "2026-01-25T09:01:03.038070"
+                },
+                {
+                    "name": "prepare-commit-msg.sample",
+                    "creation_date": "2026-01-25T09:01:03.021034"
+                },
+                {
+                    "name": "push-to-checkout.sample",
+                    "creation_date": "2026-01-25T09:01:03.004047"
+                },
+                {
+                    "name": "sendemail-validate.sample",
+                    "creation_date": "2026-01-25T09:01:02.971046"
+                },
+                {
+                    "name": "update.sample",
+                    "creation_date": "2026-01-25T09:01:02.987049"
+                }
+            ]
+        },
+        "info": {
+            "file_list": [
+                {
+                    "name": "exclude",
+                    "creation_date": "2026-01-25T09:01:03.237009"
+                }
+            ]
+        },
+        "logs": {
+            "refs": {
+                "heads": {
+                    "file_list": [
+                        {
+                            "name": "main",
+                            "creation_date": "2026-01-25T09:01:04.235544"
+                        }
+                    ]
+                },
+                "remotes": {}
+            },
+            "file_list": [
+                {
+                    "name": "HEAD",
+                    "creation_date": "2026-01-25T09:01:04.300291"
+                }
+            ]
+        },
+        "objects": {
+            "04": {
+                "file_list": [
+                    {
+                        "name": "3955b302bdbad152b8b4a56b7f535915d4fa74",
+                        "creation_date": "2026-01-26T13:33:47.638138"
+                    }
+                ]
+            },
+            "0e": {
+                "file_list": [
+                    {
+                        "name": "ba71b786a1af96aa1fa438e067a57396f6e6a9",
+                        "creation_date": "2026-01-25T17:08:27.221870"
+                    }
+                ]
+            },
+            "0f": {
+                "file_list": [
+                    {
+                        "name": "c42302161c802d0f01c40c3396e7876b86f4f9",
+                        "creation_date": "2026-01-26T13:33:47.665131"
+                    }
+                ]
+            },
+            "14": {
+                "file_list": [
+                    {
+                        "name": "0f5f31c7f55eb6e50f112f0132e5ea3ba844b6",
+                        "creation_date": "2026-01-25T09:01:03.646678"
+                    }
+                ]
+            },
+            "22": {
+                "file_list": [
+                    {
+                        "name": "1d52ac8277a4a22154659f3f41607e0bdb8d1b",
+                        "creation_date": "2026-01-25T17:09:47.737208"
+                    }
+                ]
+            },
+            "29": {
+                "file_list": [
+                    {
+                        "name": "a2321003864f4a74b50c7f511088bb42198b64",
+                        "creation_date": "2026-01-25T09:01:03.671879"
+                    }
+                ]
+            },
+            "38": {
+                "file_list": [
+                    {
+                        "name": "a8b7911e50e446d5864ede129e4e778a9651e8",
+                        "creation_date": "2026-01-25T09:01:03.997191"
+                    }
+                ]
+            },
+            "42": {
+                "file_list": [
+                    {
+                        "name": "4a46422bde9b91cfbaa8d483115ed63fc175a9",
+                        "creation_date": "2026-01-26T13:33:48.560726"
+                    },
+                    {
+                        "name": "ce5652ffe459f6d777ee82d0e7d93c46d45303",
+                        "creation_date": "2026-01-25T09:01:03.696920"
+                    }
+                ]
+            },
+            "48": {
+                "file_list": [
+                    {
+                        "name": "c2d8ae0b6ea6496956ae5f6aab5ae35c0f5db6",
+                        "creation_date": "2026-01-25T17:08:27.230500"
+                    }
+                ]
+            },
+            "4f": {
+                "file_list": [
+                    {
+                        "name": "7a05ba8c39662ba104be02e162283e7001b700",
+                        "creation_date": "2026-01-26T13:33:47.693191"
+                    }
+                ]
+            },
+            "51": {
+                "file_list": [
+                    {
+                        "name": "0c24c8af186e24a3ccdd7d3d3bd494c70761dd",
+                        "creation_date": "2026-01-25T09:01:04.122326"
+                    }
+                ]
+            },
+            "55": {
+                "file_list": [
+                    {
+                        "name": "54c2890bbb3657fce21b6f38a3b0cd502ad2f9",
+                        "creation_date": "2026-01-25T09:01:03.447166"
+                    }
+                ]
+            },
+            "5f": {
+                "file_list": [
+                    {
+                        "name": "19eaf54368b81ac9492dfb2f591d671ad4d07f",
+                        "creation_date": "2026-01-25T09:01:04.024092"
+                    }
+                ]
+            },
+            "60": {
+                "file_list": [
+                    {
+                        "name": "54e5de3d10da591556b2437db62006daeff08c",
+                        "creation_date": "2026-01-26T13:33:47.718699"
+                    }
+                ]
+            },
+            "61": {
+                "file_list": [
+                    {
+                        "name": "8b9a98d7995e6584e2abbc0b7277aa8b0e7220",
+                        "creation_date": "2026-01-26T13:33:47.770107"
+                    }
+                ]
+            },
+            "63": {
+                "file_list": [
+                    {
+                        "name": "12c170c887fa473d4f0096fddf52a04a62b958",
+                        "creation_date": "2026-01-26T13:33:48.511729"
+                    }
+                ]
+            },
+            "69": {
+                "file_list": [
+                    {
+                        "name": "b8a24765fc4e845e5e395a651c1e43661d0510",
+                        "creation_date": "2026-01-25T17:09:35.512419"
+                    }
+                ]
+            },
+            "6a": {
+                "file_list": [
+                    {
+                        "name": "52e6a51156f4bc22d01aa1842e06da6fd8e37c",
+                        "creation_date": "2026-01-25T09:01:03.722917"
+                    }
+                ]
+            },
+            "76": {
+                "file_list": [
+                    {
+                        "name": "da9e598e755a696a1f80a140d3b6312f1f1677",
+                        "creation_date": "2026-01-25T17:09:47.486930"
+                    }
+                ]
+            },
+            "7e": {
+                "file_list": [
+                    {
+                        "name": "f674d39012f04bc8ee4cfcb241ca5c219eead9",
+                        "creation_date": "2026-01-25T17:09:55.324540"
+                    }
+                ]
+            },
+            "82": {
+                "file_list": [
+                    {
+                        "name": "b313591c11e132bed91c462323459c8157ead5",
+                        "creation_date": "2026-01-25T09:01:04.093317"
+                    },
+                    {
+                        "name": "b6d91a788e1f9f52d86c375a064d3d388fe8f4",
+                        "creation_date": "2026-01-25T09:01:04.076326"
+                    }
+                ]
+            },
+            "8a": {
+                "file_list": [
+                    {
+                        "name": "946f1a7c7e8db5b94a968670d7ee2b3411615c",
+                        "creation_date": "2026-01-25T09:01:03.488280"
+                    },
+                    {
+                        "name": "ccdc9a2c845cfed575d057746b402692513360",
+                        "creation_date": "2026-01-25T09:01:03.473312"
+                    }
+                ]
+            },
+            "8b": {
+                "file_list": [
+                    {
+                        "name": "7f00b01f561d0ed9a8957b310d8a59168956dd",
+                        "creation_date": "2026-01-25T09:01:03.566626"
+                    }
+                ]
+            },
+            "91": {
+                "file_list": [
+                    {
+                        "name": "ec73243ebf637b939b2aee781e991fc4811934",
+                        "creation_date": "2026-01-26T13:33:47.744094"
+                    }
+                ]
+            },
+            "96": {
+                "file_list": [
+                    {
+                        "name": "a113fcd46008393c94c1ddbe8e6c3e45d56570",
+                        "creation_date": "2026-01-26T13:33:48.441202"
+                    }
+                ]
+            },
+            "9e": {
+                "file_list": [
+                    {
+                        "name": "f112a90c1e6aa61e12e7d133399936db348e2a",
+                        "creation_date": "2026-01-26T13:33:48.542727"
+                    }
+                ]
+            },
+            "9f": {
+                "file_list": [
+                    {
+                        "name": "0201f38ad046f2115fb0f452017af1afa62549",
+                        "creation_date": "2026-01-25T09:01:03.791726"
+                    }
+                ]
+            },
+            "a3": {
+                "file_list": [
+                    {
+                        "name": "cba281f01df2f918b9b5835955312f04c4b86f",
+                        "creation_date": "2026-01-25T17:09:47.727910"
+                    }
+                ]
+            },
+            "b0": {
+                "file_list": [
+                    {
+                        "name": "134860825ea3699b456c7c419e3ff0fd815293",
+                        "creation_date": "2026-01-25T17:08:27.234249"
+                    }
+                ]
+            },
+            "be": {
+                "file_list": [
+                    {
+                        "name": "f983ebd374a0430db8773ea49368c08d60562c",
+                        "creation_date": "2026-01-26T13:33:48.485201"
+                    }
+                ]
+            },
+            "c4": {
+                "file_list": [
+                    {
+                        "name": "34d22848f301d7bb48b528582178633a9d2ead",
+                        "creation_date": "2026-01-25T17:09:55.305895"
+                    }
+                ]
+            },
+            "c7": {
+                "file_list": [
+                    {
+                        "name": "26af9990e09e18b7c29d7c2fb610c8cc96498c",
+                        "creation_date": "2026-01-25T09:01:03.834173"
+                    },
+                    {
+                        "name": "de7d84539617ed32811b9f5e0b1e9c215023ce",
+                        "creation_date": "2026-01-25T09:01:03.820079"
+                    }
+                ]
+            },
+            "d6": {
+                "file_list": [
+                    {
+                        "name": "92a1d469a186b5c12c587c8a8689ad5d788397",
+                        "creation_date": "2026-01-25T09:01:03.862553"
+                    }
+                ]
+            },
+            "d7": {
+                "file_list": [
+                    {
+                        "name": "de97a3f6e699d62f202dedcaf2aa5b6ad55533",
+                        "creation_date": "2026-01-25T09:01:03.888722"
+                    }
+                ]
+            },
+            "eb": {
+                "file_list": [
+                    {
+                        "name": "a64051db73e80ae74c863d8450360b1ce8ca78",
+                        "creation_date": "2026-01-25T09:01:03.915716"
+                    }
+                ]
+            },
+            "ef": {
+                "file_list": [
+                    {
+                        "name": "bc6614fc1013bce095d9c3cac035d9823782e1",
+                        "creation_date": "2026-01-25T09:01:03.942635"
+                    }
+                ]
+            },
+            "f2": {
+                "file_list": [
+                    {
+                        "name": "88702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+                        "creation_date": "2026-01-25T09:01:03.621665"
+                    }
+                ]
+            },
+            "f7": {
+                "file_list": [
+                    {
+                        "name": "4b8fee1c44972050a83fb983c000c34a819ea1",
+                        "creation_date": "2026-01-25T09:01:03.970227"
+                    }
+                ]
+            },
+            "info": {},
+            "pack": {
+                "file_list": [
+                    {
+                        "name": "pack-ccd631b3d93890e73590b498ae0acc10944cb73a.idx",
+                        "creation_date": "2026-01-25T09:01:03.421172"
+                    },
+                    {
+                        "name": "pack-ccd631b3d93890e73590b498ae0acc10944cb73a.pack",
+                        "creation_date": "2026-01-25T09:01:03.406164"
+                    },
+                    {
+                        "name": "pack-ccd631b3d93890e73590b498ae0acc10944cb73a.rev",
+                        "creation_date": "2026-01-25T09:01:03.392161"
+                    }
+                ]
+            }
+        },
+        "refs": {
+            "heads": {
+                "file_list": [
+                    {
+                        "name": "main",
+                        "creation_date": "2026-01-25T17:09:47.739596"
+                    }
+                ]
+            },
+            "remotes": {
+                "origin": {
+                    "file_list": [
+                        {
+                            "name": "HEAD",
+                            "creation_date": "2026-01-25T09:01:03.318917"
+                        },
+                        {
+                            "name": "main",
+                            "creation_date": "2026-01-25T17:09:57.493767"
+                        }
+                    ]
+                }
+            },
+            "tags": {}
+        },
+        "file_list": [
+            {
+                "name": "COMMIT_EDITMSG",
+                "creation_date": "2026-01-25T09:01:04.343427"
+            },
+            {
+                "name": "config",
+                "creation_date": "2026-01-25T09:01:04.186845"
+            },
+            {
+                "name": "description",
+                "creation_date": "2026-01-25T09:01:04.171844"
+            },
+            {
+                "name": "FETCH_HEAD",
+                "creation_date": "2026-01-25T09:01:04.154854"
+            },
+            {
+                "name": "HEAD",
+                "creation_date": "2026-01-25T09:01:04.138329"
+            },
+            {
+                "name": "index",
+                "creation_date": "2026-01-25T17:09:35.503825"
+            },
+            {
+                "name": "ORIG_HEAD",
+                "creation_date": "2026-01-25T09:01:04.358023"
+            },
+            {
+                "name": "packed-refs",
+                "creation_date": "2026-01-25T09:01:04.314390"
+            }
+        ]
+    },
+    ".venv": {
+        "Include": {},
+        "Lib": {
+            "site-packages": {
+                "contourpy": {
+                    "file_list": [
+                        {
+                            "name": "array.py",
+                            "creation_date": "2026-01-26T20:54:20.799933"
+                        },
+                        {
+                            "name": "chunk.py",
+                            "creation_date": "2026-01-26T20:54:20.799933"
+                        },
+                        {
+                            "name": "convert.py",
+                            "creation_date": "2026-01-26T20:54:20.799933"
+                        },
+                        {
+                            "name": "dechunk.py",
+                            "creation_date": "2026-01-26T20:54:20.804442"
+                        },
+                        {
+                            "name": "enum_util.py",
+                            "creation_date": "2026-01-26T20:54:20.804442"
+                        },
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:54:20.809538"
+                        },
+                        {
+                            "name": "typecheck.py",
+                            "creation_date": "2026-01-26T20:54:20.807141"
+                        },
+                        {
+                            "name": "types.py",
+                            "creation_date": "2026-01-26T20:54:20.807648"
+                        },
+                        {
+                            "name": "_contourpy.cp313-win_amd64.lib",
+                            "creation_date": "2026-01-26T20:54:20.797413"
+                        },
+                        {
+                            "name": "_contourpy.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:20.791903"
+                        },
+                        {
+                            "name": "_contourpy.pyi",
+                            "creation_date": "2026-01-26T20:54:20.807648"
+                        },
+                        {
+                            "name": "_version.py",
+                            "creation_date": "2026-01-26T20:54:20.799933"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:20.799933"
+                        }
+                    ]
+                },
+                "contourpy-1.3.3.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:21.332372"
+                        },
+                        {
+                            "name": "LICENSE",
+                            "creation_date": "2026-01-26T20:54:20.791903"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:20.791903"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:21.342489"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:20.791903"
+                        }
+                    ]
+                },
+                "cycler": {
+                    "file_list": [
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:54:20.739821"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:20.738538"
+                        }
+                    ]
+                },
+                "cycler-0.12.1.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:20.773196"
+                        },
+                        {
+                            "name": "LICENSE",
+                            "creation_date": "2026-01-26T20:54:20.739821"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:20.739821"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:20.783138"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:54:20.739821"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:20.739821"
+                        }
+                    ]
+                },
+                "dateutil": {
+                    "file_list": [
+                        {
+                            "name": "easter.py",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        },
+                        {
+                            "name": "relativedelta.py",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        },
+                        {
+                            "name": "rrule.py",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        },
+                        {
+                            "name": "tzwin.py",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        },
+                        {
+                            "name": "utils.py",
+                            "creation_date": "2026-01-26T20:52:22.228321"
+                        },
+                        {
+                            "name": "_common.py",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        },
+                        {
+                            "name": "_version.py",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        }
+                    ]
+                },
+                "et_xmlfile": {
+                    "file_list": [
+                        {
+                            "name": "incremental_tree.py",
+                            "creation_date": "2026-01-26T20:52:22.143153"
+                        },
+                        {
+                            "name": "xmlfile.py",
+                            "creation_date": "2026-01-26T20:52:22.144230"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:52:22.141141"
+                        }
+                    ]
+                },
+                "et_xmlfile-2.0.0.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "AUTHORS.txt",
+                            "creation_date": "2026-01-26T20:52:22.145877"
+                        },
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:52:22.205403"
+                        },
+                        {
+                            "name": "LICENCE.python",
+                            "creation_date": "2026-01-26T20:52:22.146908"
+                        },
+                        {
+                            "name": "LICENCE.rst",
+                            "creation_date": "2026-01-26T20:52:22.147417"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:52:22.148507"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:52:22.213756"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:52:22.148507"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:52:22.148507"
+                        }
+                    ]
+                },
+                "fontTools": {
+                    "file_list": [
+                        {
+                            "name": "afmLib.py",
+                            "creation_date": "2026-01-26T20:54:07.406402"
+                        },
+                        {
+                            "name": "agl.py",
+                            "creation_date": "2026-01-26T20:54:07.406402"
+                        },
+                        {
+                            "name": "annotations.py",
+                            "creation_date": "2026-01-26T20:54:07.407912"
+                        },
+                        {
+                            "name": "fontBuilder.py",
+                            "creation_date": "2026-01-26T20:54:07.407912"
+                        },
+                        {
+                            "name": "help.py",
+                            "creation_date": "2026-01-26T20:54:07.410250"
+                        },
+                        {
+                            "name": "tfmLib.py",
+                            "creation_date": "2026-01-26T20:54:07.410250"
+                        },
+                        {
+                            "name": "ttx.py",
+                            "creation_date": "2026-01-26T20:54:07.410250"
+                        },
+                        {
+                            "name": "unicode.py",
+                            "creation_date": "2026-01-26T20:54:07.410250"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:07.399842"
+                        },
+                        {
+                            "name": "__main__.py",
+                            "creation_date": "2026-01-26T20:54:07.399842"
+                        }
+                    ]
+                },
+                "fonttools-4.61.1.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "entry_points.txt",
+                            "creation_date": "2026-01-26T20:54:07.908020"
+                        },
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:19.965411"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:07.905090"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:20.724919"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:54:07.909420"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:07.907008"
+                        }
+                    ]
+                },
+                "kiwisolver": {
+                    "file_list": [
+                        {
+                            "name": "exceptions.py",
+                            "creation_date": "2026-01-26T20:54:07.303123"
+                        },
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:54:07.305247"
+                        },
+                        {
+                            "name": "_cext.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:07.295475"
+                        },
+                        {
+                            "name": "_cext.pyi",
+                            "creation_date": "2026-01-26T20:54:07.295475"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:07.295475"
+                        }
+                    ]
+                },
+                "kiwisolver-1.4.9.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:07.381238"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:07.305247"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:07.391340"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:54:07.305247"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:07.305247"
+                        }
+                    ]
+                },
+                "matplotlib": {
+                    "file_list": [
+                        {
+                            "name": "animation.py",
+                            "creation_date": "2026-01-26T20:54:21.513462"
+                        },
+                        {
+                            "name": "animation.pyi",
+                            "creation_date": "2026-01-26T20:54:21.651185"
+                        },
+                        {
+                            "name": "artist.py",
+                            "creation_date": "2026-01-26T20:54:21.513462"
+                        },
+                        {
+                            "name": "artist.pyi",
+                            "creation_date": "2026-01-26T20:54:21.651185"
+                        },
+                        {
+                            "name": "axis.py",
+                            "creation_date": "2026-01-26T20:54:21.513462"
+                        },
+                        {
+                            "name": "axis.pyi",
+                            "creation_date": "2026-01-26T20:54:21.658790"
+                        },
+                        {
+                            "name": "backend_bases.py",
+                            "creation_date": "2026-01-26T20:54:21.513462"
+                        },
+                        {
+                            "name": "backend_bases.pyi",
+                            "creation_date": "2026-01-26T20:54:21.660808"
+                        },
+                        {
+                            "name": "backend_managers.py",
+                            "creation_date": "2026-01-26T20:54:21.525241"
+                        },
+                        {
+                            "name": "backend_managers.pyi",
+                            "creation_date": "2026-01-26T20:54:21.660808"
+                        },
+                        {
+                            "name": "backend_tools.py",
+                            "creation_date": "2026-01-26T20:54:21.525241"
+                        },
+                        {
+                            "name": "backend_tools.pyi",
+                            "creation_date": "2026-01-26T20:54:21.660808"
+                        },
+                        {
+                            "name": "bezier.py",
+                            "creation_date": "2026-01-26T20:54:21.525241"
+                        },
+                        {
+                            "name": "bezier.pyi",
+                            "creation_date": "2026-01-26T20:54:21.663883"
+                        },
+                        {
+                            "name": "category.py",
+                            "creation_date": "2026-01-26T20:54:21.525241"
+                        },
+                        {
+                            "name": "cbook.py",
+                            "creation_date": "2026-01-26T20:54:21.525241"
+                        },
+                        {
+                            "name": "cbook.pyi",
+                            "creation_date": "2026-01-26T20:54:21.665517"
+                        },
+                        {
+                            "name": "cm.py",
+                            "creation_date": "2026-01-26T20:54:21.533930"
+                        },
+                        {
+                            "name": "cm.pyi",
+                            "creation_date": "2026-01-26T20:54:21.666664"
+                        },
+                        {
+                            "name": "collections.py",
+                            "creation_date": "2026-01-26T20:54:21.533930"
+                        },
+                        {
+                            "name": "collections.pyi",
+                            "creation_date": "2026-01-26T20:54:21.666664"
+                        },
+                        {
+                            "name": "colorbar.py",
+                            "creation_date": "2026-01-26T20:54:21.540949"
+                        },
+                        {
+                            "name": "colorbar.pyi",
+                            "creation_date": "2026-01-26T20:54:21.669257"
+                        },
+                        {
+                            "name": "colorizer.py",
+                            "creation_date": "2026-01-26T20:54:21.543957"
+                        },
+                        {
+                            "name": "colorizer.pyi",
+                            "creation_date": "2026-01-26T20:54:21.669257"
+                        },
+                        {
+                            "name": "colors.py",
+                            "creation_date": "2026-01-26T20:54:21.543957"
+                        },
+                        {
+                            "name": "colors.pyi",
+                            "creation_date": "2026-01-26T20:54:21.669257"
+                        },
+                        {
+                            "name": "container.py",
+                            "creation_date": "2026-01-26T20:54:21.543957"
+                        },
+                        {
+                            "name": "container.pyi",
+                            "creation_date": "2026-01-26T20:54:21.669257"
+                        },
+                        {
+                            "name": "contour.py",
+                            "creation_date": "2026-01-26T20:54:21.543957"
+                        },
+                        {
+                            "name": "contour.pyi",
+                            "creation_date": "2026-01-26T20:54:21.669257"
+                        },
+                        {
+                            "name": "dates.py",
+                            "creation_date": "2026-01-26T20:54:21.543957"
+                        },
+                        {
+                            "name": "dviread.py",
+                            "creation_date": "2026-01-26T20:54:21.543957"
+                        },
+                        {
+                            "name": "dviread.pyi",
+                            "creation_date": "2026-01-26T20:54:21.677199"
+                        },
+                        {
+                            "name": "figure.py",
+                            "creation_date": "2026-01-26T20:54:21.543957"
+                        },
+                        {
+                            "name": "figure.pyi",
+                            "creation_date": "2026-01-26T20:54:21.677199"
+                        },
+                        {
+                            "name": "font_manager.py",
+                            "creation_date": "2026-01-26T20:54:21.557064"
+                        },
+                        {
+                            "name": "font_manager.pyi",
+                            "creation_date": "2026-01-26T20:54:21.679738"
+                        },
+                        {
+                            "name": "ft2font.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:21.392974"
+                        },
+                        {
+                            "name": "ft2font.pyi",
+                            "creation_date": "2026-01-26T20:54:21.638145"
+                        },
+                        {
+                            "name": "gridspec.py",
+                            "creation_date": "2026-01-26T20:54:21.557064"
+                        },
+                        {
+                            "name": "gridspec.pyi",
+                            "creation_date": "2026-01-26T20:54:21.682568"
+                        },
+                        {
+                            "name": "hatch.py",
+                            "creation_date": "2026-01-26T20:54:21.557064"
+                        },
+                        {
+                            "name": "hatch.pyi",
+                            "creation_date": "2026-01-26T20:54:21.682687"
+                        },
+                        {
+                            "name": "image.py",
+                            "creation_date": "2026-01-26T20:54:21.557064"
+                        },
+                        {
+                            "name": "image.pyi",
+                            "creation_date": "2026-01-26T20:54:21.686033"
+                        },
+                        {
+                            "name": "inset.py",
+                            "creation_date": "2026-01-26T20:54:21.557064"
+                        },
+                        {
+                            "name": "inset.pyi",
+                            "creation_date": "2026-01-26T20:54:21.687748"
+                        },
+                        {
+                            "name": "layout_engine.py",
+                            "creation_date": "2026-01-26T20:54:21.567091"
+                        },
+                        {
+                            "name": "layout_engine.pyi",
+                            "creation_date": "2026-01-26T20:54:21.688955"
+                        },
+                        {
+                            "name": "legend.py",
+                            "creation_date": "2026-01-26T20:54:21.567182"
+                        },
+                        {
+                            "name": "legend.pyi",
+                            "creation_date": "2026-01-26T20:54:21.690124"
+                        },
+                        {
+                            "name": "legend_handler.py",
+                            "creation_date": "2026-01-26T20:54:21.567182"
+                        },
+                        {
+                            "name": "legend_handler.pyi",
+                            "creation_date": "2026-01-26T20:54:21.690124"
+                        },
+                        {
+                            "name": "lines.py",
+                            "creation_date": "2026-01-26T20:54:21.567182"
+                        },
+                        {
+                            "name": "lines.pyi",
+                            "creation_date": "2026-01-26T20:54:21.693142"
+                        },
+                        {
+                            "name": "markers.py",
+                            "creation_date": "2026-01-26T20:54:21.572711"
+                        },
+                        {
+                            "name": "markers.pyi",
+                            "creation_date": "2026-01-26T20:54:21.693142"
+                        },
+                        {
+                            "name": "mathtext.py",
+                            "creation_date": "2026-01-26T20:54:21.572711"
+                        },
+                        {
+                            "name": "mathtext.pyi",
+                            "creation_date": "2026-01-26T20:54:21.693142"
+                        },
+                        {
+                            "name": "mlab.py",
+                            "creation_date": "2026-01-26T20:54:21.572711"
+                        },
+                        {
+                            "name": "mlab.pyi",
+                            "creation_date": "2026-01-26T20:54:21.693142"
+                        },
+                        {
+                            "name": "offsetbox.py",
+                            "creation_date": "2026-01-26T20:54:21.577318"
+                        },
+                        {
+                            "name": "offsetbox.pyi",
+                            "creation_date": "2026-01-26T20:54:21.699302"
+                        },
+                        {
+                            "name": "patches.py",
+                            "creation_date": "2026-01-26T20:54:21.577318"
+                        },
+                        {
+                            "name": "patches.pyi",
+                            "creation_date": "2026-01-26T20:54:21.699302"
+                        },
+                        {
+                            "name": "path.py",
+                            "creation_date": "2026-01-26T20:54:21.587435"
+                        },
+                        {
+                            "name": "path.pyi",
+                            "creation_date": "2026-01-26T20:54:21.699302"
+                        },
+                        {
+                            "name": "patheffects.py",
+                            "creation_date": "2026-01-26T20:54:21.577318"
+                        },
+                        {
+                            "name": "patheffects.pyi",
+                            "creation_date": "2026-01-26T20:54:21.699302"
+                        },
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:54:21.628027"
+                        },
+                        {
+                            "name": "pylab.py",
+                            "creation_date": "2026-01-26T20:54:21.588451"
+                        },
+                        {
+                            "name": "pyplot.py",
+                            "creation_date": "2026-01-26T20:54:21.588451"
+                        },
+                        {
+                            "name": "quiver.py",
+                            "creation_date": "2026-01-26T20:54:21.588451"
+                        },
+                        {
+                            "name": "quiver.pyi",
+                            "creation_date": "2026-01-26T20:54:21.705618"
+                        },
+                        {
+                            "name": "rcsetup.py",
+                            "creation_date": "2026-01-26T20:54:21.588451"
+                        },
+                        {
+                            "name": "rcsetup.pyi",
+                            "creation_date": "2026-01-26T20:54:21.705618"
+                        },
+                        {
+                            "name": "sankey.py",
+                            "creation_date": "2026-01-26T20:54:21.597527"
+                        },
+                        {
+                            "name": "sankey.pyi",
+                            "creation_date": "2026-01-26T20:54:21.709664"
+                        },
+                        {
+                            "name": "scale.py",
+                            "creation_date": "2026-01-26T20:54:21.597527"
+                        },
+                        {
+                            "name": "scale.pyi",
+                            "creation_date": "2026-01-26T20:54:21.709723"
+                        },
+                        {
+                            "name": "spines.py",
+                            "creation_date": "2026-01-26T20:54:21.597527"
+                        },
+                        {
+                            "name": "spines.pyi",
+                            "creation_date": "2026-01-26T20:54:21.709723"
+                        },
+                        {
+                            "name": "stackplot.py",
+                            "creation_date": "2026-01-26T20:54:21.607809"
+                        },
+                        {
+                            "name": "stackplot.pyi",
+                            "creation_date": "2026-01-26T20:54:21.709723"
+                        },
+                        {
+                            "name": "streamplot.py",
+                            "creation_date": "2026-01-26T20:54:21.607809"
+                        },
+                        {
+                            "name": "streamplot.pyi",
+                            "creation_date": "2026-01-26T20:54:21.709723"
+                        },
+                        {
+                            "name": "table.py",
+                            "creation_date": "2026-01-26T20:54:21.607809"
+                        },
+                        {
+                            "name": "table.pyi",
+                            "creation_date": "2026-01-26T20:54:21.709723"
+                        },
+                        {
+                            "name": "texmanager.py",
+                            "creation_date": "2026-01-26T20:54:21.607809"
+                        },
+                        {
+                            "name": "texmanager.pyi",
+                            "creation_date": "2026-01-26T20:54:21.709723"
+                        },
+                        {
+                            "name": "text.py",
+                            "creation_date": "2026-01-26T20:54:21.617891"
+                        },
+                        {
+                            "name": "text.pyi",
+                            "creation_date": "2026-01-26T20:54:21.719841"
+                        },
+                        {
+                            "name": "textpath.py",
+                            "creation_date": "2026-01-26T20:54:21.617891"
+                        },
+                        {
+                            "name": "textpath.pyi",
+                            "creation_date": "2026-01-26T20:54:21.719841"
+                        },
+                        {
+                            "name": "ticker.py",
+                            "creation_date": "2026-01-26T20:54:21.620424"
+                        },
+                        {
+                            "name": "ticker.pyi",
+                            "creation_date": "2026-01-26T20:54:21.719841"
+                        },
+                        {
+                            "name": "transforms.py",
+                            "creation_date": "2026-01-26T20:54:21.620424"
+                        },
+                        {
+                            "name": "transforms.pyi",
+                            "creation_date": "2026-01-26T20:54:21.719841"
+                        },
+                        {
+                            "name": "typing.py",
+                            "creation_date": "2026-01-26T20:54:21.628027"
+                        },
+                        {
+                            "name": "units.py",
+                            "creation_date": "2026-01-26T20:54:21.628027"
+                        },
+                        {
+                            "name": "widgets.py",
+                            "creation_date": "2026-01-26T20:54:21.628027"
+                        },
+                        {
+                            "name": "widgets.pyi",
+                            "creation_date": "2026-01-26T20:54:21.724856"
+                        },
+                        {
+                            "name": "_afm.py",
+                            "creation_date": "2026-01-26T20:54:21.466570"
+                        },
+                        {
+                            "name": "_animation_data.py",
+                            "creation_date": "2026-01-26T20:54:21.468185"
+                        },
+                        {
+                            "name": "_blocking_input.py",
+                            "creation_date": "2026-01-26T20:54:21.469822"
+                        },
+                        {
+                            "name": "_cm.py",
+                            "creation_date": "2026-01-26T20:54:21.472214"
+                        },
+                        {
+                            "name": "_cm_bivar.py",
+                            "creation_date": "2026-01-26T20:54:21.474818"
+                        },
+                        {
+                            "name": "_cm_listed.py",
+                            "creation_date": "2026-01-26T20:54:21.476794"
+                        },
+                        {
+                            "name": "_cm_multivar.py",
+                            "creation_date": "2026-01-26T20:54:21.476794"
+                        },
+                        {
+                            "name": "_color_data.py",
+                            "creation_date": "2026-01-26T20:54:21.484310"
+                        },
+                        {
+                            "name": "_color_data.pyi",
+                            "creation_date": "2026-01-26T20:54:21.645373"
+                        },
+                        {
+                            "name": "_constrained_layout.py",
+                            "creation_date": "2026-01-26T20:54:21.484310"
+                        },
+                        {
+                            "name": "_c_internal_utils.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:21.392974"
+                        },
+                        {
+                            "name": "_c_internal_utils.pyi",
+                            "creation_date": "2026-01-26T20:54:21.628027"
+                        },
+                        {
+                            "name": "_docstring.py",
+                            "creation_date": "2026-01-26T20:54:21.484310"
+                        },
+                        {
+                            "name": "_docstring.pyi",
+                            "creation_date": "2026-01-26T20:54:21.648452"
+                        },
+                        {
+                            "name": "_enums.py",
+                            "creation_date": "2026-01-26T20:54:21.484310"
+                        },
+                        {
+                            "name": "_enums.pyi",
+                            "creation_date": "2026-01-26T20:54:21.650671"
+                        },
+                        {
+                            "name": "_fontconfig_pattern.py",
+                            "creation_date": "2026-01-26T20:54:21.493248"
+                        },
+                        {
+                            "name": "_image.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:21.421865"
+                        },
+                        {
+                            "name": "_image.pyi",
+                            "creation_date": "2026-01-26T20:54:21.638145"
+                        },
+                        {
+                            "name": "_internal_utils.py",
+                            "creation_date": "2026-01-26T20:54:21.493801"
+                        },
+                        {
+                            "name": "_layoutgrid.py",
+                            "creation_date": "2026-01-26T20:54:21.493801"
+                        },
+                        {
+                            "name": "_mathtext.py",
+                            "creation_date": "2026-01-26T20:54:21.493801"
+                        },
+                        {
+                            "name": "_mathtext_data.py",
+                            "creation_date": "2026-01-26T20:54:21.500824"
+                        },
+                        {
+                            "name": "_path.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:21.423376"
+                        },
+                        {
+                            "name": "_path.pyi",
+                            "creation_date": "2026-01-26T20:54:21.651185"
+                        },
+                        {
+                            "name": "_pylab_helpers.py",
+                            "creation_date": "2026-01-26T20:54:21.502938"
+                        },
+                        {
+                            "name": "_pylab_helpers.pyi",
+                            "creation_date": "2026-01-26T20:54:21.651185"
+                        },
+                        {
+                            "name": "_qhull.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:21.436101"
+                        },
+                        {
+                            "name": "_qhull.pyi",
+                            "creation_date": "2026-01-26T20:54:21.638145"
+                        },
+                        {
+                            "name": "_text_helpers.py",
+                            "creation_date": "2026-01-26T20:54:21.505491"
+                        },
+                        {
+                            "name": "_tight_bbox.py",
+                            "creation_date": "2026-01-26T20:54:21.506548"
+                        },
+                        {
+                            "name": "_tight_layout.py",
+                            "creation_date": "2026-01-26T20:54:21.509657"
+                        },
+                        {
+                            "name": "_tri.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:21.451793"
+                        },
+                        {
+                            "name": "_tri.pyi",
+                            "creation_date": "2026-01-26T20:54:21.642918"
+                        },
+                        {
+                            "name": "_type1font.py",
+                            "creation_date": "2026-01-26T20:54:21.510365"
+                        },
+                        {
+                            "name": "_version.py",
+                            "creation_date": "2026-01-26T20:54:22.131322"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:21.464932"
+                        },
+                        {
+                            "name": "__init__.pyi",
+                            "creation_date": "2026-01-26T20:54:21.645373"
+                        }
+                    ]
+                },
+                "matplotlib-3.10.8.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:36.223891"
+                        },
+                        {
+                            "name": "LICENSE",
+                            "creation_date": "2026-01-26T20:54:21.372177"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:21.372177"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:36.232711"
+                        },
+                        {
+                            "name": "REQUESTED",
+                            "creation_date": "2026-01-26T20:54:36.225604"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:21.372177"
+                        }
+                    ]
+                },
+                "mpl_toolkits": {},
+                "numpy": {
+                    "file_list": [
+                        {
+                            "name": "conftest.py",
+                            "creation_date": "2026-01-26T20:52:05.627417"
+                        },
+                        {
+                            "name": "dtypes.py",
+                            "creation_date": "2026-01-26T20:52:05.633379"
+                        },
+                        {
+                            "name": "dtypes.pyi",
+                            "creation_date": "2026-01-26T20:52:05.634713"
+                        },
+                        {
+                            "name": "exceptions.py",
+                            "creation_date": "2026-01-26T20:52:05.636480"
+                        },
+                        {
+                            "name": "exceptions.pyi",
+                            "creation_date": "2026-01-26T20:52:05.637496"
+                        },
+                        {
+                            "name": "matlib.py",
+                            "creation_date": "2026-01-26T20:52:05.640365"
+                        },
+                        {
+                            "name": "matlib.pyi",
+                            "creation_date": "2026-01-26T20:52:05.640874"
+                        },
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:52:05.642772"
+                        },
+                        {
+                            "name": "version.py",
+                            "creation_date": "2026-01-26T20:52:05.642772"
+                        },
+                        {
+                            "name": "version.pyi",
+                            "creation_date": "2026-01-26T20:52:05.644078"
+                        },
+                        {
+                            "name": "_array_api_info.py",
+                            "creation_date": "2026-01-26T20:52:05.645591"
+                        },
+                        {
+                            "name": "_array_api_info.pyi",
+                            "creation_date": "2026-01-26T20:52:05.646705"
+                        },
+                        {
+                            "name": "_configtool.py",
+                            "creation_date": "2026-01-26T20:52:05.646705"
+                        },
+                        {
+                            "name": "_configtool.pyi",
+                            "creation_date": "2026-01-26T20:52:05.646705"
+                        },
+                        {
+                            "name": "_distributor_init.py",
+                            "creation_date": "2026-01-26T20:52:05.646705"
+                        },
+                        {
+                            "name": "_distributor_init.pyi",
+                            "creation_date": "2026-01-26T20:52:05.646705"
+                        },
+                        {
+                            "name": "_expired_attrs_2_0.py",
+                            "creation_date": "2026-01-26T20:52:05.646705"
+                        },
+                        {
+                            "name": "_expired_attrs_2_0.pyi",
+                            "creation_date": "2026-01-26T20:52:05.646705"
+                        },
+                        {
+                            "name": "_globals.py",
+                            "creation_date": "2026-01-26T20:52:05.653716"
+                        },
+                        {
+                            "name": "_globals.pyi",
+                            "creation_date": "2026-01-26T20:52:05.653716"
+                        },
+                        {
+                            "name": "_pytesttester.py",
+                            "creation_date": "2026-01-26T20:52:05.653716"
+                        },
+                        {
+                            "name": "_pytesttester.pyi",
+                            "creation_date": "2026-01-26T20:52:05.656889"
+                        },
+                        {
+                            "name": "__config__.py",
+                            "creation_date": "2026-01-26T20:52:05.656889"
+                        },
+                        {
+                            "name": "__config__.pyi",
+                            "creation_date": "2026-01-26T20:52:05.656889"
+                        },
+                        {
+                            "name": "__init__.cython-30.pxd",
+                            "creation_date": "2026-01-26T20:52:05.656889"
+                        },
+                        {
+                            "name": "__init__.pxd",
+                            "creation_date": "2026-01-26T20:52:05.661339"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:52:05.661339"
+                        },
+                        {
+                            "name": "__init__.pyi",
+                            "creation_date": "2026-01-26T20:52:05.664258"
+                        }
+                    ]
+                },
+                "numpy-2.4.1.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "DELVEWHEEL",
+                            "creation_date": "2026-01-26T20:52:07.255030"
+                        },
+                        {
+                            "name": "entry_points.txt",
+                            "creation_date": "2026-01-26T20:52:07.258432"
+                        },
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:52:21.837738"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:52:07.258432"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:52:22.122586"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:52:07.263581"
+                        }
+                    ]
+                },
+                "numpy.libs": {
+                    "file_list": [
+                        {
+                            "name": "libscipy_openblas64_-9e3e5a4229c1ca39f10dc82bba9e2b2b.dll",
+                            "creation_date": "2026-01-26T20:52:07.042044"
+                        },
+                        {
+                            "name": "msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+                            "creation_date": "2026-01-26T20:52:07.246466"
+                        }
+                    ]
+                },
+                "openpyxl": {
+                    "file_list": [
+                        {
+                            "name": "_constants.py",
+                            "creation_date": "2026-01-26T20:52:22.676539"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:52:22.676539"
+                        }
+                    ]
+                },
+                "openpyxl-3.1.5.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:52:27.437779"
+                        },
+                        {
+                            "name": "LICENCE.rst",
+                            "creation_date": "2026-01-26T20:52:22.955515"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:52:22.955515"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:52:27.456162"
+                        },
+                        {
+                            "name": "REQUESTED",
+                            "creation_date": "2026-01-26T20:52:27.453394"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:52:22.957869"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:52:22.957869"
+                        }
+                    ]
+                },
+                "packaging": {
+                    "file_list": [
+                        {
+                            "name": "markers.py",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "metadata.py",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "pylock.py",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "requirements.py",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "specifiers.py",
+                            "creation_date": "2026-01-26T20:54:06.570529"
+                        },
+                        {
+                            "name": "tags.py",
+                            "creation_date": "2026-01-26T20:54:06.570529"
+                        },
+                        {
+                            "name": "utils.py",
+                            "creation_date": "2026-01-26T20:54:06.572089"
+                        },
+                        {
+                            "name": "version.py",
+                            "creation_date": "2026-01-26T20:54:06.572089"
+                        },
+                        {
+                            "name": "_elffile.py",
+                            "creation_date": "2026-01-26T20:54:06.557889"
+                        },
+                        {
+                            "name": "_manylinux.py",
+                            "creation_date": "2026-01-26T20:54:06.557889"
+                        },
+                        {
+                            "name": "_musllinux.py",
+                            "creation_date": "2026-01-26T20:54:06.561984"
+                        },
+                        {
+                            "name": "_parser.py",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "_structures.py",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "_tokenizer.py",
+                            "creation_date": "2026-01-26T20:54:06.563010"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:06.557889"
+                        }
+                    ]
+                },
+                "packaging-26.0.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:07.272376"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:06.582111"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:07.286855"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:06.577597"
+                        }
+                    ]
+                },
+                "pandas": {
+                    "file_list": [
+                        {
+                            "name": "conftest.py",
+                            "creation_date": "2026-01-26T20:52:27.494146"
+                        },
+                        {
+                            "name": "pyproject.toml",
+                            "creation_date": "2026-01-26T20:52:27.494146"
+                        },
+                        {
+                            "name": "testing.py",
+                            "creation_date": "2026-01-26T20:52:27.494146"
+                        },
+                        {
+                            "name": "_typing.py",
+                            "creation_date": "2026-01-26T20:52:27.494146"
+                        },
+                        {
+                            "name": "_version.py",
+                            "creation_date": "2026-01-26T20:52:27.494146"
+                        },
+                        {
+                            "name": "_version_meson.py",
+                            "creation_date": "2026-01-26T20:52:27.500694"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:52:27.504214"
+                        }
+                    ]
+                },
+                "pandas-3.0.0.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "DELVEWHEEL",
+                            "creation_date": "2026-01-26T20:52:29.961370"
+                        },
+                        {
+                            "name": "entry_points.txt",
+                            "creation_date": "2026-01-26T20:52:29.962393"
+                        },
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:53:19.827398"
+                        },
+                        {
+                            "name": "LICENSE",
+                            "creation_date": "2026-01-26T20:52:29.962393"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:52:29.962393"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:53:19.847689"
+                        },
+                        {
+                            "name": "REQUESTED",
+                            "creation_date": "2026-01-26T20:53:19.835741"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:52:29.969138"
+                        }
+                    ]
+                },
+                "pandas.libs": {
+                    "file_list": [
+                        {
+                            "name": "msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+                            "creation_date": "2026-01-26T20:52:29.952636"
+                        }
+                    ]
+                },
+                "PIL": {
+                    "file_list": [
+                        {
+                            "name": "AvifImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.599751"
+                        },
+                        {
+                            "name": "BdfFontFile.py",
+                            "creation_date": "2026-01-26T20:54:02.602723"
+                        },
+                        {
+                            "name": "BlpImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.602723"
+                        },
+                        {
+                            "name": "BmpImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.604795"
+                        },
+                        {
+                            "name": "BufrStubImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.606104"
+                        },
+                        {
+                            "name": "ContainerIO.py",
+                            "creation_date": "2026-01-26T20:54:02.606104"
+                        },
+                        {
+                            "name": "CurImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.607535"
+                        },
+                        {
+                            "name": "DcxImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.607535"
+                        },
+                        {
+                            "name": "DdsImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.607535"
+                        },
+                        {
+                            "name": "EpsImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.608748"
+                        },
+                        {
+                            "name": "ExifTags.py",
+                            "creation_date": "2026-01-26T20:54:02.609845"
+                        },
+                        {
+                            "name": "features.py",
+                            "creation_date": "2026-01-26T20:54:02.795806"
+                        },
+                        {
+                            "name": "FitsImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.609845"
+                        },
+                        {
+                            "name": "FliImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.609845"
+                        },
+                        {
+                            "name": "FontFile.py",
+                            "creation_date": "2026-01-26T20:54:02.611257"
+                        },
+                        {
+                            "name": "FpxImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.611257"
+                        },
+                        {
+                            "name": "FtexImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.612765"
+                        },
+                        {
+                            "name": "GbrImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.612843"
+                        },
+                        {
+                            "name": "GdImageFile.py",
+                            "creation_date": "2026-01-26T20:54:02.612843"
+                        },
+                        {
+                            "name": "GifImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.612843"
+                        },
+                        {
+                            "name": "GimpGradientFile.py",
+                            "creation_date": "2026-01-26T20:54:02.614778"
+                        },
+                        {
+                            "name": "GimpPaletteFile.py",
+                            "creation_date": "2026-01-26T20:54:02.614778"
+                        },
+                        {
+                            "name": "GribStubImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.614778"
+                        },
+                        {
+                            "name": "Hdf5StubImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.614778"
+                        },
+                        {
+                            "name": "IcnsImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.614778"
+                        },
+                        {
+                            "name": "IcoImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.618287"
+                        },
+                        {
+                            "name": "Image.py",
+                            "creation_date": "2026-01-26T20:54:02.618287"
+                        },
+                        {
+                            "name": "ImageChops.py",
+                            "creation_date": "2026-01-26T20:54:02.618287"
+                        },
+                        {
+                            "name": "ImageCms.py",
+                            "creation_date": "2026-01-26T20:54:02.618287"
+                        },
+                        {
+                            "name": "ImageColor.py",
+                            "creation_date": "2026-01-26T20:54:02.618287"
+                        },
+                        {
+                            "name": "ImageDraw.py",
+                            "creation_date": "2026-01-26T20:54:02.623296"
+                        },
+                        {
+                            "name": "ImageDraw2.py",
+                            "creation_date": "2026-01-26T20:54:02.623296"
+                        },
+                        {
+                            "name": "ImageEnhance.py",
+                            "creation_date": "2026-01-26T20:54:02.623296"
+                        },
+                        {
+                            "name": "ImageFile.py",
+                            "creation_date": "2026-01-26T20:54:02.623296"
+                        },
+                        {
+                            "name": "ImageFilter.py",
+                            "creation_date": "2026-01-26T20:54:02.626835"
+                        },
+                        {
+                            "name": "ImageFont.py",
+                            "creation_date": "2026-01-26T20:54:02.626835"
+                        },
+                        {
+                            "name": "ImageGrab.py",
+                            "creation_date": "2026-01-26T20:54:02.626835"
+                        },
+                        {
+                            "name": "ImageMath.py",
+                            "creation_date": "2026-01-26T20:54:02.626835"
+                        },
+                        {
+                            "name": "ImageMode.py",
+                            "creation_date": "2026-01-26T20:54:02.626835"
+                        },
+                        {
+                            "name": "ImageMorph.py",
+                            "creation_date": "2026-01-26T20:54:02.630462"
+                        },
+                        {
+                            "name": "ImageOps.py",
+                            "creation_date": "2026-01-26T20:54:02.630462"
+                        },
+                        {
+                            "name": "ImagePalette.py",
+                            "creation_date": "2026-01-26T20:54:02.630462"
+                        },
+                        {
+                            "name": "ImagePath.py",
+                            "creation_date": "2026-01-26T20:54:02.630462"
+                        },
+                        {
+                            "name": "ImageQt.py",
+                            "creation_date": "2026-01-26T20:54:02.630462"
+                        },
+                        {
+                            "name": "ImageSequence.py",
+                            "creation_date": "2026-01-26T20:54:02.633584"
+                        },
+                        {
+                            "name": "ImageShow.py",
+                            "creation_date": "2026-01-26T20:54:02.633584"
+                        },
+                        {
+                            "name": "ImageStat.py",
+                            "creation_date": "2026-01-26T20:54:02.633584"
+                        },
+                        {
+                            "name": "ImageText.py",
+                            "creation_date": "2026-01-26T20:54:02.633584"
+                        },
+                        {
+                            "name": "ImageTk.py",
+                            "creation_date": "2026-01-26T20:54:02.633584"
+                        },
+                        {
+                            "name": "ImageTransform.py",
+                            "creation_date": "2026-01-26T20:54:02.633584"
+                        },
+                        {
+                            "name": "ImageWin.py",
+                            "creation_date": "2026-01-26T20:54:02.633584"
+                        },
+                        {
+                            "name": "ImImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.618287"
+                        },
+                        {
+                            "name": "ImtImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.638245"
+                        },
+                        {
+                            "name": "IptcImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.638245"
+                        },
+                        {
+                            "name": "Jpeg2KImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.639422"
+                        },
+                        {
+                            "name": "JpegImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.639422"
+                        },
+                        {
+                            "name": "JpegPresets.py",
+                            "creation_date": "2026-01-26T20:54:02.639422"
+                        },
+                        {
+                            "name": "McIdasImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.639422"
+                        },
+                        {
+                            "name": "MicImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.639422"
+                        },
+                        {
+                            "name": "MpegImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.642997"
+                        },
+                        {
+                            "name": "MpoImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.642997"
+                        },
+                        {
+                            "name": "MspImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.644078"
+                        },
+                        {
+                            "name": "PaletteFile.py",
+                            "creation_date": "2026-01-26T20:54:02.645165"
+                        },
+                        {
+                            "name": "PalmImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.645165"
+                        },
+                        {
+                            "name": "PcdImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.647760"
+                        },
+                        {
+                            "name": "PcfFontFile.py",
+                            "creation_date": "2026-01-26T20:54:02.647760"
+                        },
+                        {
+                            "name": "PcxImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.649282"
+                        },
+                        {
+                            "name": "PdfImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.650300"
+                        },
+                        {
+                            "name": "PdfParser.py",
+                            "creation_date": "2026-01-26T20:54:02.652122"
+                        },
+                        {
+                            "name": "PixarImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.652122"
+                        },
+                        {
+                            "name": "PngImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.654163"
+                        },
+                        {
+                            "name": "PpmImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.654163"
+                        },
+                        {
+                            "name": "PsdImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.654163"
+                        },
+                        {
+                            "name": "PSDraw.py",
+                            "creation_date": "2026-01-26T20:54:02.645165"
+                        },
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:54:02.795806"
+                        },
+                        {
+                            "name": "QoiImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.656667"
+                        },
+                        {
+                            "name": "report.py",
+                            "creation_date": "2026-01-26T20:54:02.795806"
+                        },
+                        {
+                            "name": "SgiImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.657709"
+                        },
+                        {
+                            "name": "SpiderImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.657709"
+                        },
+                        {
+                            "name": "SunImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.658895"
+                        },
+                        {
+                            "name": "TarIO.py",
+                            "creation_date": "2026-01-26T20:54:02.658895"
+                        },
+                        {
+                            "name": "TgaImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.660490"
+                        },
+                        {
+                            "name": "TiffImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.660490"
+                        },
+                        {
+                            "name": "TiffTags.py",
+                            "creation_date": "2026-01-26T20:54:02.660490"
+                        },
+                        {
+                            "name": "WalImageFile.py",
+                            "creation_date": "2026-01-26T20:54:02.660490"
+                        },
+                        {
+                            "name": "WebPImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.664499"
+                        },
+                        {
+                            "name": "WmfImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.665506"
+                        },
+                        {
+                            "name": "XbmImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.667094"
+                        },
+                        {
+                            "name": "XpmImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.667094"
+                        },
+                        {
+                            "name": "XVThumbImagePlugin.py",
+                            "creation_date": "2026-01-26T20:54:02.665506"
+                        },
+                        {
+                            "name": "_avif.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.669177"
+                        },
+                        {
+                            "name": "_avif.pyi",
+                            "creation_date": "2026-01-26T20:54:02.725117"
+                        },
+                        {
+                            "name": "_binary.py",
+                            "creation_date": "2026-01-26T20:54:02.727810"
+                        },
+                        {
+                            "name": "_deprecate.py",
+                            "creation_date": "2026-01-26T20:54:02.728898"
+                        },
+                        {
+                            "name": "_imaging.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.730217"
+                        },
+                        {
+                            "name": "_imaging.pyi",
+                            "creation_date": "2026-01-26T20:54:02.749658"
+                        },
+                        {
+                            "name": "_imagingcms.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.749658"
+                        },
+                        {
+                            "name": "_imagingcms.pyi",
+                            "creation_date": "2026-01-26T20:54:02.749658"
+                        },
+                        {
+                            "name": "_imagingft.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.759734"
+                        },
+                        {
+                            "name": "_imagingft.pyi",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_imagingmath.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_imagingmath.pyi",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_imagingmorph.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_imagingmorph.pyi",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_imagingtk.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_imagingtk.pyi",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_tkinter_finder.py",
+                            "creation_date": "2026-01-26T20:54:02.782145"
+                        },
+                        {
+                            "name": "_typing.py",
+                            "creation_date": "2026-01-26T20:54:02.790756"
+                        },
+                        {
+                            "name": "_util.py",
+                            "creation_date": "2026-01-26T20:54:02.790756"
+                        },
+                        {
+                            "name": "_version.py",
+                            "creation_date": "2026-01-26T20:54:02.790756"
+                        },
+                        {
+                            "name": "_webp.cp313-win_amd64.pyd",
+                            "creation_date": "2026-01-26T20:54:02.790756"
+                        },
+                        {
+                            "name": "_webp.pyi",
+                            "creation_date": "2026-01-26T20:54:02.795806"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:02.667094"
+                        },
+                        {
+                            "name": "__main__.py",
+                            "creation_date": "2026-01-26T20:54:02.669177"
+                        }
+                    ]
+                },
+                "pillow-12.1.0.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:06.540510"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:02.802911"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:06.547815"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:54:02.804089"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:02.804089"
+                        },
+                        {
+                            "name": "zip-safe",
+                            "creation_date": "2026-01-26T20:54:02.805285"
+                        }
+                    ]
+                },
+                "pip": {
+                    "file_list": [
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:51:12.586107"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:51:12.582369"
+                        },
+                        {
+                            "name": "__main__.py",
+                            "creation_date": "2026-01-26T20:51:12.582369"
+                        },
+                        {
+                            "name": "__pip-runner__.py",
+                            "creation_date": "2026-01-26T20:51:12.584861"
+                        }
+                    ]
+                },
+                "pip-25.3.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "entry_points.txt",
+                            "creation_date": "2026-01-26T20:51:13.187903"
+                        },
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:51:22.517315"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:51:13.237370"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:51:23.178470"
+                        },
+                        {
+                            "name": "REQUESTED",
+                            "creation_date": "2026-01-26T20:51:22.523059"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:51:13.236392"
+                        }
+                    ]
+                },
+                "pyparsing": {
+                    "file_list": [
+                        {
+                            "name": "actions.py",
+                            "creation_date": "2026-01-26T20:54:01.972376"
+                        },
+                        {
+                            "name": "common.py",
+                            "creation_date": "2026-01-26T20:54:01.972376"
+                        },
+                        {
+                            "name": "core.py",
+                            "creation_date": "2026-01-26T20:54:01.973441"
+                        },
+                        {
+                            "name": "exceptions.py",
+                            "creation_date": "2026-01-26T20:54:01.975450"
+                        },
+                        {
+                            "name": "helpers.py",
+                            "creation_date": "2026-01-26T20:54:01.981562"
+                        },
+                        {
+                            "name": "py.typed",
+                            "creation_date": "2026-01-26T20:54:01.982287"
+                        },
+                        {
+                            "name": "results.py",
+                            "creation_date": "2026-01-26T20:54:01.982287"
+                        },
+                        {
+                            "name": "testing.py",
+                            "creation_date": "2026-01-26T20:54:01.983929"
+                        },
+                        {
+                            "name": "unicode.py",
+                            "creation_date": "2026-01-26T20:54:01.983929"
+                        },
+                        {
+                            "name": "util.py",
+                            "creation_date": "2026-01-26T20:54:01.983929"
+                        },
+                        {
+                            "name": "warnings.py",
+                            "creation_date": "2026-01-26T20:54:01.986031"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:54:01.965186"
+                        }
+                    ]
+                },
+                "pyparsing-3.3.2.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:54:02.578898"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:54:01.994047"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:54:02.591643"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:54:01.994047"
+                        }
+                    ]
+                },
+                "python_dateutil-2.9.0.post0.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:52:22.662766"
+                        },
+                        {
+                            "name": "LICENSE",
+                            "creation_date": "2026-01-26T20:52:22.245510"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:52:22.246028"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:52:22.668621"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:52:22.249312"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:52:22.248302"
+                        },
+                        {
+                            "name": "zip-safe",
+                            "creation_date": "2026-01-26T20:52:22.250371"
+                        }
+                    ]
+                },
+                "six-1.17.0.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:52:05.591504"
+                        },
+                        {
+                            "name": "LICENSE",
+                            "creation_date": "2026-01-26T20:52:05.535316"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:52:05.537459"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:52:05.594014"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:52:05.538532"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:52:05.538532"
+                        }
+                    ]
+                },
+                "tzdata": {
+                    "file_list": [
+                        {
+                            "name": "zones",
+                            "creation_date": "2026-01-26T20:52:04.707302"
+                        },
+                        {
+                            "name": "__init__.py",
+                            "creation_date": "2026-01-26T20:52:04.706286"
+                        }
+                    ]
+                },
+                "tzdata-2025.3.dist-info": {
+                    "file_list": [
+                        {
+                            "name": "INSTALLER",
+                            "creation_date": "2026-01-26T20:52:05.515088"
+                        },
+                        {
+                            "name": "METADATA",
+                            "creation_date": "2026-01-26T20:52:05.378308"
+                        },
+                        {
+                            "name": "RECORD",
+                            "creation_date": "2026-01-26T20:52:05.515599"
+                        },
+                        {
+                            "name": "top_level.txt",
+                            "creation_date": "2026-01-26T20:52:05.379930"
+                        },
+                        {
+                            "name": "WHEEL",
+                            "creation_date": "2026-01-26T20:52:05.379422"
+                        }
+                    ]
+                },
+                "__pycache__": {
+                    "file_list": [
+                        {
+                            "name": "pylab.cpython-313.pyc",
+                            "creation_date": "2026-01-26T20:54:36.222199"
+                        },
+                        {
+                            "name": "six.cpython-313.pyc",
+                            "creation_date": "2026-01-26T20:52:05.591504"
+                        }
+                    ]
+                },
+                "file_list": [
+                    {
+                        "name": "pylab.py",
+                        "creation_date": "2026-01-26T20:54:21.462609"
+                    },
+                    {
+                        "name": "six.py",
+                        "creation_date": "2026-01-26T20:52:05.532694"
+                    }
+                ]
+            }
+        },
+        "Scripts": {
+            "file_list": [
+                {
+                    "name": "activate",
+                    "creation_date": "2026-01-26T20:51:07.646477"
+                },
+                {
+                    "name": "activate.bat",
+                    "creation_date": "2026-01-26T20:51:07.744536"
+                },
+                {
+                    "name": "activate.fish",
+                    "creation_date": "2026-01-26T20:51:07.663944"
+                },
+                {
+                    "name": "Activate.ps1",
+                    "creation_date": "2026-01-26T20:51:07.695083"
+                },
+                {
+                    "name": "deactivate.bat",
+                    "creation_date": "2026-01-26T20:51:07.767343"
+                },
+                {
+                    "name": "f2py.exe",
+                    "creation_date": "2026-01-26T20:52:21.837738"
+                },
+                {
+                    "name": "fonttools.exe",
+                    "creation_date": "2026-01-26T20:54:19.955280"
+                },
+                {
+                    "name": "numpy-config.exe",
+                    "creation_date": "2026-01-26T20:52:21.837738"
+                },
+                {
+                    "name": "pip.exe",
+                    "creation_date": "2026-01-26T20:51:22.509025"
+                },
+                {
+                    "name": "pip3.13.exe",
+                    "creation_date": "2026-01-26T20:51:22.515651"
+                },
+                {
+                    "name": "pip3.exe",
+                    "creation_date": "2026-01-26T20:51:22.513161"
+                },
+                {
+                    "name": "pyftmerge.exe",
+                    "creation_date": "2026-01-26T20:54:19.960789"
+                },
+                {
+                    "name": "pyftsubset.exe",
+                    "creation_date": "2026-01-26T20:54:19.962640"
+                },
+                {
+                    "name": "python.exe",
+                    "creation_date": "2026-01-26T20:50:48.275162"
+                },
+                {
+                    "name": "pythonw.exe",
+                    "creation_date": "2026-01-26T20:50:48.275162"
+                },
+                {
+                    "name": "ttx.exe",
+                    "creation_date": "2026-01-26T20:54:19.964393"
+                }
+            ]
+        },
+        "share": {
+            "man": {
+                "man1": {
+                    "file_list": [
+                        {
+                            "name": "ttx.1",
+                            "creation_date": "2026-01-26T20:54:07.917176"
+                        }
+                    ]
+                }
+            }
+        },
+        "file_list": [
+            {
+                "name": ".gitignore",
+                "creation_date": "2026-01-26T20:50:48.267545"
+            },
+            {
+                "name": "pyvenv.cfg",
+                "creation_date": "2026-01-26T20:50:48.267545"
+            }
+        ]
+    },
+    "__pycache__": {
+        "file_list": [
+            {
+                "name": "Integrated_Load_Configurator_Visualizer.cpython-313.pyc",
+                "creation_date": "2026-01-25T17:20:16.141848"
+            },
+            {
+                "name": "Integrated_Load_Configurator_Visualizer.cpython-314.pyc",
+                "creation_date": "2026-01-26T13:47:17.143564"
+            },
+            {
+                "name": "load_configurator.cpython-313.pyc",
+                "creation_date": "2026-01-25T17:23:57.846592"
+            },
+            {
+                "name": "three_d_visualizer.cpython-313.pyc",
+                "creation_date": "2026-01-26T20:55:16.531461"
+            },
+            {
+                "name": "three_d_visualizer.cpython-314.pyc",
+                "creation_date": "2026-01-26T14:04:17.399671"
+            }
+        ]
+    },
+    "file_list": [
+        {
+            "name": "19 GENSETS VEHICLE CONFIGURATION.xlsx",
+            "creation_date": "2026-01-25T09:01:04.623721"
+        },
+        {
+            "name": "19 gensets.csv",
+            "creation_date": "2026-01-26T14:03:44.152793"
+        },
+        {
+            "name": "Auto-Optimizer.py",
+            "creation_date": "2026-01-25T09:01:04.593719"
+        },
+        {
+            "name": "Axle_Load_Calculation.py",
+            "creation_date": "2026-01-25T09:01:04.578720"
+        },
+        {
+            "name": "CSV_Export_Loading_Manifesto.py",
+            "creation_date": "2026-01-25T09:01:04.563719"
+        },
+        {
+            "name": "Figure_1.png",
+            "creation_date": "2026-01-25T17:32:46.846775"
+        },
+        {
+            "name": "FULL-TRANSCRIPT.md",
+            "creation_date": "2026-01-25T09:01:04.548201"
+        },
+        {
+            "name": "image-config1-solution.png",
+            "creation_date": "2026-01-25T09:01:04.532190"
+        },
+        {
+            "name": "image-config2-solution.png",
+            "creation_date": "2026-01-25T09:01:04.516194"
+        },
+        {
+            "name": "Integrated_Load_Configurator_Visualizer.py",
+            "creation_date": "2026-01-25T09:01:04.472205"
+        },
+        {
+            "name": "LICENSE",
+            "creation_date": "2026-01-25T09:01:04.392569"
+        },
+        {
+            "name": "load_configurator.py",
+            "creation_date": "2026-01-25T09:01:04.456205"
+        },
+        {
+            "name": "master_configurator.py",
+            "creation_date": "2026-01-25T09:01:04.439634"
+        },
+        {
+            "name": "README.md",
+            "creation_date": "2026-01-25T09:01:04.376571"
+        },
+        {
+            "name": "requirements.txt",
+            "creation_date": "2026-01-25T17:09:18.591380"
+        },
+        {
+            "name": "run_all.py",
+            "creation_date": "2026-01-25T09:01:04.424573"
+        },
+        {
+            "name": "three_d_visualizer.py",
+            "creation_date": "2026-01-25T09:01:04.608717"
+        },
+        {
+            "name": "user_guide.md",
+            "creation_date": "2026-01-25T09:01:04.408574"
+        }
+    ],
+    "generated_at": "2026-01-27T20:44:02.933617",
+    "guid": "451a45b8"
+}
